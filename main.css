@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.img-fluid {
+    height: 500px;
+    width: 500px;
+    margin-left: 200px;
+    margin-top: 50px;
+    border: solid black 5px;
+}
+
+.container p {
+    font-size: 25px;
+    font-family: monospace;
+}
+
+
+.container-fluid {
+    font-family: monospace;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.dropdown button {
+    background-color: black;
+    width: 200px;
+    margin-left: 40px;
+
+}
+
+.formulario h1 {
+    color: gold;
+}
+
+.form-group {
+    width: 300px;
+    margin: auto;
+    border: solid gray 5px;
+    padding: 40px
+}
+
+.container a {
+    color: black;
+}
+
+.responsive__img {
+    width: 300px;
+    height: 300px;
+    border: solid #FF9F29 5px;
+}
+
+.imagen {
+    width: 300px;
+    height: 300px;
+    border: solid crimson 5px;
+
+}
+
+.list-group{
+    border: solid black 5px;
+    
+}
+
+.list-group-item{
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.pasos{
+    font-family: monospace;
+}
+
+.volver{
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.locales{
+    font-family: monospace;
+}
